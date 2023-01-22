@@ -1,5 +1,3 @@
-//Team 61
-//Members: D2180215, D2180203, P3210175
 
 import java.io.*;
 import java.net.Proxy;
